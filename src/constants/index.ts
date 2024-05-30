@@ -23,11 +23,7 @@ import {
   mongodb,
   git,
   figma,
-
-
-
   maxgen,
-
   carrent,
   jobit,
   tripguide,
