@@ -24,7 +24,7 @@ import {
   git,
   figma,
 
-  starbucks,
+
 
   maxgen,
 
