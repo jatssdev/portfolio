@@ -45,7 +45,7 @@ export const config: TConfig = {
     email: "j3tinr3val@mail.com",
   },
   hero: {
-    name: "Jatin",
+    name: "Magan",
     p: ["I build dynamic web applications and user interfaces using the MERN stack."],
   },
   contact: {
