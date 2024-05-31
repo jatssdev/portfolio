@@ -24,6 +24,7 @@ import {
   git,
   figma,
   maxgen,
+  codingCloud,
   carrent,
   jobit,
   tripguide,
@@ -118,7 +119,7 @@ const experiences: TExperience[] = [
     title: "Mern Stack Developer",
     companyName: "Maxgen Technologies Pvt.Ltd",
     icon: maxgen,
-    iconBg: "#383E56",
+    iconBg: "#E6DEDD",
     date: "July 2022 - Present",
     points: [
       "Developing and maintaining web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js).",
@@ -132,8 +133,8 @@ const experiences: TExperience[] = [
   {
     title: "React, Mern , PHP Trainee",
     companyName: "Coding Cloud Institute",
-    icon: maxgen,
-    iconBg: "#E6DEDD",
+    icon: codingCloud,
+    iconBg: "#383E56",
     date: "July 2022 - Present",
     points: [
       "Worked as a trainee, gaining hands-on experience in PHP, MERN stack, and React.",

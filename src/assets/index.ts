@@ -25,6 +25,7 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import maxgen from "./company/maxgen.png";
+import codingCloud from "./company/coding-cloud.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -59,4 +60,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  codingCloud
 };
