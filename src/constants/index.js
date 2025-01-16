@@ -337,10 +337,10 @@ const projects = [
 ];
 
 const personalInfo = {
-  name: "Shridhar",
-  fullName: "Shridhar Rai",
+  name: "Jatin",
+  fullName: "Jatin Raval",
   email: "raishridhar619@gmail.com",
-  role: "Software Developer",
+  role: "Full Stack Developer",
   about: `I'm a skilled software developer with experience in TypeScript and
   JavaScript, and expertise in frameworks like React.Js, React-naitve,
   Node.js etc. I'm a quick learner and collaborate closely with clients to
